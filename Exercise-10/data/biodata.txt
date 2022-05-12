@@ -1,0 +1,6 @@
+Nama: Kiran
+Umur: 19
+Alamat: Lamongan
+Nama: Mawar
+Umur: 11
+Alamat: Lamongan
